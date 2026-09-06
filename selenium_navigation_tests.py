@@ -372,7 +372,7 @@ def test_target_blank_links(driver):
         print(f"New-tab link found: {href}")
 
 
-# 15. Test empty/invalid navigation links
+# 15. Test empty/invalid navigation links.
 def test_invalid_navigation_links(driver):
     driver.get(BASE_URL)
     wait_for_page(driver)
