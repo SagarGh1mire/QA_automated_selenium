@@ -39,7 +39,7 @@ def wait_for_page(driver):
     )
 
 
-# 1. Test all links on the webpage
+# 1. Test all links on the webpage.
 def test_all_navigation_links(driver):
     driver.get(BASE_URL)
     wait_for_page(driver)
