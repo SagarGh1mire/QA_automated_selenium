@@ -63,8 +63,3 @@ pytest -v
 
 **Python • Selenium • PyTest • Manual Testing • Automation Testing • WebDriver • HTML Reports • Git/GitHub**
 
-## 👨‍💻 Author
-
-**Sagar Ghimire**
-
-QA Engineer | Software Tester | Test Automation Engineer
